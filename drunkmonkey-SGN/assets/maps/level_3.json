@@ -1,0 +1,147 @@
+{
+  "level": 3,
+  "width": 4800,
+  "height": 800,
+  "platforms": [
+    {
+      "x": 0,
+      "y": 750,
+      "width": 300,
+      "height": 30,
+      "color": "#1a3d0a"
+    },
+    {
+      "x": 400,
+      "y": 650,
+      "width": 280,
+      "height": 30,
+      "color": "#1a3d0a"
+    },
+    {
+      "x": 750,
+      "y": 550,
+      "width": 300,
+      "height": 30,
+      "color": "#1a3d0a"
+    },
+    {
+      "x": 1150,
+      "y": 450,
+      "width": 350,
+      "height": 30,
+      "color": "#1a3d0a"
+    },
+    {
+      "x": 1600,
+      "y": 600,
+      "width": 300,
+      "height": 30,
+      "color": "#1a3d0a"
+    },
+    {
+      "x": 2000,
+      "y": 500,
+      "width": 350,
+      "height": 30,
+      "color": "#1a3d0a"
+    },
+    {
+      "x": 2450,
+      "y": 650,
+      "width": 280,
+      "height": 30,
+      "color": "#1a3d0a"
+    },
+    {
+      "x": 2850,
+      "y": 550,
+      "width": 300,
+      "height": 30,
+      "color": "#1a3d0a"
+    },
+    {
+      "x": 3250,
+      "y": 450,
+      "width": 350,
+      "height": 30,
+      "color": "#1a3d0a"
+    },
+    {
+      "x": 3700,
+      "y": 600,
+      "width": 300,
+      "height": 30,
+      "color": "#1a3d0a"
+    },
+    {
+      "x": 4100,
+      "y": 500,
+      "width": 500,
+      "height": 30,
+      "color": "#1a3d0a"
+    }
+  ],
+  "enemies": [
+    {
+      "type": "monkey_fast",
+      "x": 150,
+      "y": 700
+    },
+    {
+      "type": "monkey_strong",
+      "x": 550,
+      "y": 600
+    },
+    {
+      "type": "monkey_fast",
+      "x": 900,
+      "y": 500
+    },
+    {
+      "type": "monkey_basic",
+      "x": 1350,
+      "y": 400
+    },
+    {
+      "type": "monkey_strong",
+      "x": 1750,
+      "y": 550
+    },
+    {
+      "type": "monkey_fast",
+      "x": 2200,
+      "y": 450
+    },
+    {
+      "type": "monkey_strong",
+      "x": 2600,
+      "y": 600
+    },
+    {
+      "type": "monkey_fast",
+      "x": 3000,
+      "y": 500
+    },
+    {
+      "type": "monkey_strong",
+      "x": 3450,
+      "y": 400
+    },
+    {
+      "type": "monkey_fast",
+      "x": 3850,
+      "y": 550
+    }
+  ],
+  "boss": {
+    "type": "gorilla",
+    "level": 3,
+    "x": 4350,
+    "y": 450
+  },
+  "playerStart": {
+    "x": 100,
+    "y": 700
+  }
+}
+

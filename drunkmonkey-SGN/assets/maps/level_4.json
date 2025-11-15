@@ -1,0 +1,176 @@
+{
+  "level": 4,
+  "width": 5400,
+  "height": 800,
+  "platforms": [
+    {
+      "x": 0,
+      "y": 750,
+      "width": 280,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 350,
+      "y": 650,
+      "width": 250,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 650,
+      "y": 550,
+      "width": 280,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 1000,
+      "y": 450,
+      "width": 300,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 1400,
+      "y": 600,
+      "width": 250,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 1750,
+      "y": 500,
+      "width": 300,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 2150,
+      "y": 400,
+      "width": 350,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 2600,
+      "y": 550,
+      "width": 250,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 2950,
+      "y": 450,
+      "width": 300,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 3350,
+      "y": 600,
+      "width": 280,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 3750,
+      "y": 500,
+      "width": 300,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 4150,
+      "y": 400,
+      "width": 350,
+      "height": 30,
+      "color": "#0f2a05"
+    },
+    {
+      "x": 4600,
+      "y": 550,
+      "width": 600,
+      "height": 30,
+      "color": "#0f2a05"
+    }
+  ],
+  "enemies": [
+    {
+      "type": "monkey_strong",
+      "x": 150,
+      "y": 700
+    },
+    {
+      "type": "monkey_fast",
+      "x": 500,
+      "y": 600
+    },
+    {
+      "type": "monkey_strong",
+      "x": 800,
+      "y": 500
+    },
+    {
+      "type": "monkey_fast",
+      "x": 1200,
+      "y": 400
+    },
+    {
+      "type": "monkey_strong",
+      "x": 1550,
+      "y": 550
+    },
+    {
+      "type": "monkey_fast",
+      "x": 1900,
+      "y": 450
+    },
+    {
+      "type": "monkey_strong",
+      "x": 2300,
+      "y": 350
+    },
+    {
+      "type": "monkey_fast",
+      "x": 2750,
+      "y": 500
+    },
+    {
+      "type": "monkey_strong",
+      "x": 3100,
+      "y": 400
+    },
+    {
+      "type": "monkey_fast",
+      "x": 3500,
+      "y": 550
+    },
+    {
+      "type": "monkey_strong",
+      "x": 3900,
+      "y": 450
+    },
+    {
+      "type": "monkey_fast",
+      "x": 4350,
+      "y": 350
+    },
+    {
+      "type": "monkey_strong",
+      "x": 4800,
+      "y": 500
+    }
+  ],
+  "boss": {
+    "type": "gorilla",
+    "level": 4,
+    "x": 5100,
+    "y": 500
+  },
+  "playerStart": {
+    "x": 100,
+    "y": 700
+  }
+}
+
